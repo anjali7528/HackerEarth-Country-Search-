@@ -1,0 +1,31 @@
+body {
+  margin: 20px auto;
+  max-width: 400px;
+}
+.search-input {
+  width: 100%;
+}
+
+.outerBody{
+  border: 1px solid black;
+  padding: 10px 5px;
+  width: 250px;
+  margin:10px;
+}
+
+.name{
+  display: flex;
+  justify-content: space-around;
+  font-size: 15px;
+  height: 2rem;
+}
+
+.heading{
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.region {
+  display: flex;
+  justify-content: space-between;
+}
